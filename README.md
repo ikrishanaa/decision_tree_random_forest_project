@@ -19,9 +19,9 @@ Implement **Decision Tree** and **Random Forest** classifiers, visualize results
 ```
 decision_tree_random_forest_project/
 │
-├── data/                 # Place dataset.csv here
-├── outputs/              # Generated plots & metrics
-├── src/                  # Python code
+├── data/                 
+├── outputs/              
+├── src/                  
 │   └── tree_models.py
 ├── README.md
 └── requirements.txt
@@ -31,8 +31,8 @@ decision_tree_random_forest_project/
 1. Create virtual environment (optional but recommended):
 ```bash
 python -m venv venv
-source venv/bin/activate  # Mac/Linux
-venv\Scripts\activate   # Windows
+source venv/bin/activate 
+venv\Scripts\activate   
 ```
 
 2. Install dependencies:
